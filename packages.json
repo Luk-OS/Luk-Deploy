@@ -1,0 +1,13 @@
+{
+  "packages": [
+    {
+      "name": "youtube-desktop",
+      "program_name": "Youtube Desktop",
+      "logo": "images/youtube-desktop.png",
+      "description": "Youtube music unofficial linux",
+      "archive": "archives/youtube-desktop.tar.gz",
+      "install_script": "install.sh",
+      "uninstall_script": "uninstall.sh"
+    }
+  ]
+}
